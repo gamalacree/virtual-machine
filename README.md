@@ -119,6 +119,3 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 <p align="center">
 <img src="https://i.imgur.com/rEBpL8Y.png" height="80%" width="80%" alt="Azure Free Account"/>
 
-<h3>Tip</h3>
-
--  If you want to save your free $200 credits, make sure you delete ALL your resources and resource groups after finishing!    
